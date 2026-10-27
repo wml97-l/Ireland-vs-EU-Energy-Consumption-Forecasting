@@ -42,7 +42,6 @@ I combined two World Bank indicators (per-capita **energy use**, which the proje
   video. You can then delete the GIF line underneath and this comment.
 -->
 
-
 ![Dashboard demo](docs/dashboard-demo.gif)
 
 <sub>The Panel dashboard running live (hover to compare any year, switch between energy and electricity), followed by the animated Plotly maps for the EU and the world.</sub>
